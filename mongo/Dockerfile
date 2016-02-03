@@ -3,7 +3,7 @@
 # http://docs.mongodb.org/manual/tutorial/install-mongodb-on-ubuntu/
 
 # Format: FROM    repository[:version]
-FROM       ubuntu:latest
+FROM ubuntu:14.04
 
 # Format: MAINTAINER Name <email@addr.ess>
 MAINTAINER Henry Jao jaohaohsuan@gmail.com
